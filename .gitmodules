@@ -1,0 +1,3 @@
+[submodule "netscope"]
+	path = netscope
+	url = https://github.com/dfhe2004/netscope.git
